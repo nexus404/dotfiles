@@ -1,0 +1,1 @@
+/home/ken/dwm2/config.h
